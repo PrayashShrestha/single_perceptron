@@ -1,3 +1,4 @@
+import numpy as np
 class Perceptron:
     '''
     Functions in this class:
