@@ -36,3 +36,8 @@ conda activate <env-name>
 conda env list
 ```
 * list name containing '*' is the active conda environment
+
+## Docstring help python command
+```bash
+  help(function_name())
+```
